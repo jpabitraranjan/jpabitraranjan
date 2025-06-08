@@ -62,6 +62,10 @@ Learning the ropes of Django and web development.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpabitraranjan&theme=tokyonight" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jpabitraranjan?theme=dark&ext=heatmap" width="75%" />
+</p>
+
 ---
 
 ### 📫 Let's Connect
