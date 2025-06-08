@@ -55,7 +55,7 @@ Learning the ropes of Django and web development.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub & LeetCode Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jpabitraranjan&show_icons=true&theme=tokyonight" width="48%" />
