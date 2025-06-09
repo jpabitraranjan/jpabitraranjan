@@ -15,16 +15,16 @@
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`Python` `C` `C++` `Java` `JavaScript`
+`Python` `C` `C++` `Java` `JavaScript` `HTML` `CSS`
 
 **Frameworks & Libraries:**  
-`Django` `Tkinter` `NumPy` `Pandas` `OpenCV` `Matplotlib` `Seaborn` `Scikit-Learn`
+`Django` `Tkinter` `NumPy` `Pandas` `OpenCV` `Matplotlib` `Seaborn` `Scikit-Learn`  `FastAPI`
 
 **Databases:**  
 `MySQL` `SQLite` `PostgreSQL` `Airtable`
 
 **Tools & Platforms:**  
-`Git` `AWS` `Figma` `Softr`
+`Git` `AWS` `Figma` `Softr` `Ollama`
 
 **Operating Systems:**  
 `UNIX` `Windows`
