@@ -37,7 +37,7 @@
 > University Academic Companion  
 A full-fledged Django web app to manage academic timetables, assign extra classes, and support real-time student-teacher chat. Role-based access control and dynamic scheduling are included.
 
-#### 🧠 [Orbital: Personalised Learning Recommender](https://github.com/harshpatel976/hackverse-courses-recommendation-system)
+#### 🧠 [Orbital: Personalised Learning Recommender](https://github.com/jpabitraranjan/Full-Stack-course-recommendation-engine)
 > *HackVerse Hackathon Project*  
 A MERN-based learning platform powered by a Python recommendation engine using NLP and collaborative filtering. Suggests personalised courses from across the web.
 
