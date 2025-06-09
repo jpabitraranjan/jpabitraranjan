@@ -35,28 +35,28 @@
 
 #### 🔷 [UniSchedule](https://github.com/jpabitraranjan/UniSchedule)
 > University Academic Companion  
-A full-fledged Django web app to manage academic timetables, assign extra classes, and support real-time student-teacher chat. Role-based access control and dynamic scheduling included.
+A full-fledged Django web app to manage academic timetables, assign extra classes, and support real-time student-teacher chat. Role-based access control and dynamic scheduling are included.
 
-#### 🧠 [Orbital: Personalized Learning Recommender](https://github.com/harshpatel976/hackverse-courses-recommendation-system)
+#### 🧠 [Orbital: Personalised Learning Recommender](https://github.com/harshpatel976/hackverse-courses-recommendation-system)
 > *HackVerse Hackathon Project*  
-A MERN-based learning platform powered by a Python recommendation engine using NLP and collaborative filtering. Suggests personalized courses from across the web.
+A MERN-based learning platform powered by a Python recommendation engine using NLP and collaborative filtering. Suggests personalised courses from across the web.
 
 #### 💬 [OPAI Chatbot](https://github.com/jpabitraranjan/OPAI-Chatbot)
-A simple NLP-powered chatbot for OpenAI-style conversations using Python.
+A simple Ollama-powered chatbot.
 
 #### 🌐 [Web Scraper](https://github.com/jpabitraranjan/WebScraper)  
-Scripted tool to scrape structured data from websites for quick insights and data extraction.
-
-#### 🎾 [Tennis Ball Tracker](https://github.com/jpabitraranjan/Tennis)  
-Experimental OpenCV project to detect and track a tennis ball using real-time video input.
+Scrapes structured data from websites for quick insights and data extraction.
 
 #### 🧪 [My First Django Project](https://github.com/jpabitraranjan/My-First-Django-Project)  
 Learning the ropes of Django and web development.
 
+#### 🎾 [Tennis Game](https://github.com/jpabitraranjan/Tennis)  
+My very first project of my life, creating a simple game of tennis using HTML/CSS and JavaScript in grade 10 "hehe".
+
 ---
 
 ### 📊 GitHub & LeetCode Stats
-
+Not too impressive but something you might want to see:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jpabitraranjan&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpabitraranjan&theme=tokyonight" width="48%" />
